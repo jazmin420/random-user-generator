@@ -1,0 +1,43 @@
+h1 {
+  text-align: center;
+}
+.conatiner {
+  width: 50%;
+  margin: auto;
+  border-radius: 20px;
+  padding: 40px;
+}
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.left-div {
+  width: 50%;
+  margin: auto; 
+}
+.img-div {
+  text-align: center;
+}
+img {
+  border-radius: 100%;
+  padding: 20px;
+  width: 150px;
+  height: 150px;
+  border: 1px solid black;
+}
+.block-span {
+  display: block;
+  padding-top: 10px;
+}
+button {
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  padding: 10px;
+}
+.button-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
